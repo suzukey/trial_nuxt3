@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>Test Page</p>
-    <nuxt-link to="/">index</nuxt-link>
+    <p class="text-xl font-bold">Test Page</p>
+    <nuxt-link to="/" class="underline">index</nuxt-link>
   </div>
 </template>
