@@ -9,7 +9,7 @@ export default defineNuxtConfig({
     // windi preflight
     'virtual:windi-base.css',
     // your stylesheets which overrides the preflight
-    // '@/css/main.css',
+    '@/assets/css/main.css',
     // windi extras
     'virtual:windi-components.css',
     'virtual:windi-utilities.css',
